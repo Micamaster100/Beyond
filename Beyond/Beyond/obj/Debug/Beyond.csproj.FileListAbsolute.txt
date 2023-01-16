@@ -1,0 +1,17 @@
+C:\Users\m100i\source\repos\Beyond\Beyond\bin\Debug\Beyond.exe.config
+C:\Users\m100i\source\repos\Beyond\Beyond\bin\Debug\Beyond.exe
+C:\Users\m100i\source\repos\Beyond\Beyond\bin\Debug\Beyond.pdb
+C:\Users\m100i\source\repos\Beyond\Beyond\obj\Debug\Beyond.csproj.AssemblyReference.cache
+C:\Users\m100i\source\repos\Beyond\Beyond\obj\Debug\Beyond.csproj.SuggestedBindingRedirects.cache
+C:\Users\m100i\source\repos\Beyond\Beyond\obj\Debug\Beyond.Beyond.resources
+C:\Users\m100i\source\repos\Beyond\Beyond\obj\Debug\Beyond.Properties.Resources.resources
+C:\Users\m100i\source\repos\Beyond\Beyond\obj\Debug\Beyond.csproj.GenerateResource.cache
+C:\Users\m100i\source\repos\Beyond\Beyond\obj\Debug\Beyond.csproj.CoreCompileInputs.cache
+C:\Users\m100i\source\repos\Beyond\Beyond\obj\Debug\Beyond.exe
+C:\Users\m100i\source\repos\Beyond\Beyond\obj\Debug\Beyond.pdb
+C:\Users\m100i\source\repos\Beyond\Beyond\bin\Debug\FastColoredTextBox.dll
+C:\Users\m100i\source\repos\Beyond\Beyond\bin\Debug\WeAreDevs_API.dll
+C:\Users\m100i\source\repos\Beyond\Beyond\bin\Debug\Newtonsoft.Json.dll
+C:\Users\m100i\source\repos\Beyond\Beyond\obj\Debug\Beyond.csproj.CopyComplete
+C:\Users\m100i\source\repos\Beyond\Beyond\obj\Debug\Beyond.ScriptHub.resources
+C:\Users\m100i\source\repos\Beyond\Beyond\obj\Debug\Beyond.Options.resources
