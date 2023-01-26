@@ -31,3 +31,6 @@ If you still encounter errors, please join my [Discord Server](https://dsc.gg/m1
 
 ## Dev Log
 - v0.0.1 | Initial Release.
+
+
+© 2023 Micamaster100
