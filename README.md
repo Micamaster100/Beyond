@@ -5,3 +5,6 @@ All of this is open-source, but only works with Windows at the moment. And it wa
 
 ## Notes:
 yes ik the ui is really goofy. ill try to fix it later
+
+
+### Dev Log
