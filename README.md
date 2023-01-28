@@ -1,7 +1,7 @@
 ## Table of Contents
 - [Beyond](https://github.com/Micamaster100/Beyond#beyond)
 - [Instructions](https://github.com/Micamaster100/Beyond#instructions)
-  - [Installation](https://github.com/Micamaster100/Beyond#instructions#installation)
+  - [Installation](https://github.com/Micamaster100/Beyond#installation)
 - [Errors](https://github.com/Micamaster100/Beyond#errors)
 - [Dev Log](https://github.com/Micamaster100/Beyond#dev-log)
 # Beyond
