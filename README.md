@@ -2,6 +2,8 @@
 - [Beyond](https://github.com/Micamaster100/Beyond#beyond)
 - [Instructions](https://github.com/Micamaster100/Beyond#instructions)
   - [Installation](https://github.com/Micamaster100/Beyond#installation)
+  - [Exploiting](https://github.com/Micamaster100/Beyond#exploiting)
+- [Notes](https://github.com/Micamaster100/Beyond#notes)
 - [Errors](https://github.com/Micamaster100/Beyond#errors)
 - [Dev Log](https://github.com/Micamaster100/Beyond#dev-log)
 # Beyond
