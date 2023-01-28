@@ -8,8 +8,10 @@
 - [Dev Log](https://github.com/Micamaster100/Beyond#dev-log)
 # Beyond
 Source code of Beyond, the Roblox script executor.
-
-All of this is open-source, but only works with Windows at the moment. And it was made on WinForms.
+# Notes:
+- All of this is open-source, but only works with Windows at the moment. Winforms C# .NET Framework
+- This is the source code. Also where the latest updates are. There's some useless files here, however. More than not, the soruce code is for modifying and having your own spinoff.
+- WeAreDevs API was used.
 
 # Instructions:
 ## Installation
@@ -34,8 +36,6 @@ For the time being, Beyond doesn't support Roblox downloaded from the Microsoft 
 > _Blah, blah, blah..._ Did the dll properly inject?
 
 Seems like you probably forgot to **Inject** Beyond into Roblox. Simply press **Inject** and the script should run.
-# Notes:
-If you still encounter errors, please join my [Discord Server](https://dsc.gg/m100) for more info and contact.
 
 # Dev Log
 - v0.0.1 | Initial Release.
