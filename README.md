@@ -1,6 +1,6 @@
 # **❗ MEGA NOTE**:
 Roblox released [Byfron](https://byfron.com/) recently and if any 3rd-party softwares are detected, you may end up in a ban. Unless WeAreDevs changes their API, using Beyond may be risky to use and if you get banned, that's your problem, not mine...
-Also this executor pretty much sucks ass, and you should just use Synapse X.
+Also this executor pretty much sucks ass, and you should just use <s>Synapse X</s> oh actually [nevermind](https://synapse.to).
 
 ## Table of Contents
 - [Beyond](https://github.com/Micamaster100/Beyond#beyond)
