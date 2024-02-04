@@ -44,7 +44,7 @@ Seems like you probably forgot to **Inject** Beyond into Roblox. Simply press **
 # Dev Log
 - v0.0.1 | Initial Release.
 
-![image](https://user-images.githubusercontent.com/98234233/215294052-c281e622-03a1-4a1a-8079-c77f0ca36a92.png)
+![image](https://github.com/Micamaster100/Beyond/assets/98234233/ea04e7b5-9023-42f5-a556-54eea396ea5b)
 
 
 
